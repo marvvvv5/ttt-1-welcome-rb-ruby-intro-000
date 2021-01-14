@@ -5,3 +5,9 @@ describe "lib/welcome.rb" do
     load './lib/welcome.rb'
   end
 end
+
+
+# well the file lib/welcome.rb should have something do with welcome to Tic Tac Toe!
+
+
+# 1. Say hello.
